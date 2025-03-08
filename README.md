@@ -90,3 +90,4 @@ MIT License - feel free to use this code for your own projects!
 - Inspired by [Perplexity](https://www.perplexity.ai/)
 - Built with [Google's Gemini API](https://ai.google.dev/)
 - UI components from [shadcn/ui](https://ui.shadcn.com/)
+# imi
